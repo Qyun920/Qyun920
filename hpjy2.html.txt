@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page 2</title>
+</head>
+<body>
+    <h1>和平精英</h1>
+    <img src="https://img0.baidu.com/it/u=941722500,645835891&fm=253&fmt=auto&app=138&f=JPEG?w=710&h=1251" alt="Image 2">
+    <h1>请联系主办方解除</h1>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page 1</title>
+    <style>
+        body {
+            background-image: url('https://img1.baidu.com/it/u=4213816913,2354897675&fm=253&fmt=auto&app=138&f=JPEG?w=806&h=500');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        h1, img, button {
+            position: relative;
+            z-index: 1;
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h1>和平精英</h1>
+    <img src="https://img0.baidu.com/it/u=2422364907,1346555223&fm=253&app=53&size=f60,60&n=0&g=0n&f=jpeg&fmt=auto?sec=1725545428&t=a60887db7a15dcde3c224753f3501faf" alt="恭喜您获得沙丘之主-图卡蒙">
+    <br>
+    <button onclick="location.href='page2.html'">确定领取</button>
+</body>
+</html>
